@@ -3,4 +3,5 @@ Shows all paths within a graph, in which each node is a color and nodes are conn
 
 # Controls
 WASD - movement
+
 ZX/mouse buttons - zoom
