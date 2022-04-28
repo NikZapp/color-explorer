@@ -5,3 +5,5 @@ Shows all paths within a graph, in which each node is a color and nodes are conn
 WASD - movement
 
 ZX/mouse buttons - zoom
+
+Left/Right arrow keys - change starting color
